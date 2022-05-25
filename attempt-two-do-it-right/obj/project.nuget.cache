@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "nlUUztYjL7ujUIRmDuffBKqV4rko6S3I1BuvUwWCmd4KaAumzbq5MSStNpsjvoZqvXoH4+xh5nuW66B0kxxCDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pangu\\source\\repos\\attempt-two-do-it-right\\attempt-two-do-it-right\\attempt-two-do-it-right.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pangu\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\pangu\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\pangu\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\pangu\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\pangu\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\pangu\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
